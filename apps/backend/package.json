@@ -1,0 +1,6 @@
+{
+    "name": "@wareflow/backend",
+    "version": "0.1.0",
+    "private": true,
+    "description": "WareFlow REST API server"
+}   

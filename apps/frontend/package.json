@@ -1,0 +1,6 @@
+{
+    "name": "@wareflow/frontend",
+    "version": "0.1.0",
+    "private": true,
+    "description": "WareFlow web UI"
+}
