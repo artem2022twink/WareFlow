@@ -1,0 +1,16 @@
+{
+  "name": "wareflow",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Inventory management system",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "echo 'TODO: run backend and frontend in parallel'",
+    "build": "echo 'TODO: build all workspaces'",
+    "lint": "echo 'TODO: lint all workspaces'"
+  },
+  "license": "ISC"
+}
