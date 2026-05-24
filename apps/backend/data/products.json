@@ -1,0 +1,25 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Laptop Dell Inspiron 15",
+            "category": "laptops",
+            "stock": 25,
+            "price": 899
+        },
+        {
+            "id": 2,
+            "name": "Apple Magic Mouse",
+            "category": "accessories",
+            "stock": 40,
+            "price": 99
+        },
+        {
+            "id": 3,
+            "name": "Sony Headphones",
+            "category": "audio",
+            "stock": 15,
+            "price": 199
+        }
+    ]
+}
