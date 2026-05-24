@@ -12,5 +12,8 @@
     "build": "echo 'TODO: build all workspaces'",
     "lint": "echo 'TODO: lint all workspaces'"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
 }
